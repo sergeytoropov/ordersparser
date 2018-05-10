@@ -1,0 +1,6 @@
+{"id": 1, "amount": 100, "comment": "оплата заказа USD", "filename": "src/test/java/ru/sergeytoropov/orders/parser/data/orders.csv", "line": 1, "result": "OK"}
+{"id": 3, "amount": 200, "comment": "оплата заказа EUR", "filename": "src/test/java/ru/sergeytoropov/orders/parser/data/orders.csv", "line": 3, "result": "OK"}
+{"id": 1, "amount": 100, "comment": "оплата заказа USD", "filename": "src/test/java/ru/sergeytoropov/orders/parser/data/orders.json", "line": 1, "result": "OK"}
+{"id": 2, "amount": 600, "comment": "оплата заказа RUS", "filename": "src/test/java/ru/sergeytoropov/orders/parser/data/orders.json", "line": 2, "result": "OK"}
+{"id": 3, "amount": 200, "comment": "оплата заказа EUR", "filename": "src/test/java/ru/sergeytoropov/orders/parser/data/orders.json", "line": 3, "result": "OK"}
+{"id": 2, "amount": 600, "comment": "оплата заказа RUS", "filename": "src/test/java/ru/sergeytoropov/orders/parser/data/orders.csv", "line": 2, "result": "OK"}

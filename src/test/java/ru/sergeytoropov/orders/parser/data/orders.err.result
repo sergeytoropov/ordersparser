@@ -1,0 +1,6 @@
+{"id": 3, "amount": 300, "comment": "оплата заказа EUR id3", "filename": "src/test/java/ru/sergeytoropov/orders/parser/data/orders.err.csv", "line": 3, "result": "OK"}
+{"filename": "src/test/java/ru/sergeytoropov/orders/parser/data/orders.err.csv", "line": 4, "result": "Не валидна сумма платежа (только целые значения) amount [400d]"}
+{"id": 5, "amount": 500, "comment": "оплата заказа RUS id5", "filename": "src/test/java/ru/sergeytoropov/orders/parser/data/orders.err.csv", "line": 5, "result": "OK"}
+{"filename": "src/test/java/ru/sergeytoropov/orders/parser/data/orders.err.csv", "line": 6, "result": "Не валидна валюта (допустимые значения USD|RUS|EUR) currency = [EURd]"}
+{"id": 1, "amount": 100, "comment": "оплата заказа USD id1", "filename": "src/test/java/ru/sergeytoropov/orders/parser/data/orders.err.csv", "line": 1, "result": "OK"}
+{"filename": "src/test/java/ru/sergeytoropov/orders/parser/data/orders.err.csv", "line": 2, "result": "Не валидный идентификатор id [2d]"}
